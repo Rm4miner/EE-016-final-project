@@ -1,1 +1,2 @@
 # EE-016-final-project
+The California real estate market is one of the most dynamic and volatile in the United States. This project aims to build a machine learning regression model to predict median house values in California districts using data from the 1990 U.S. Census. By analyzing historical and geographical data, we seek to understand the key drivers of property value and develop a model that balances accuracy with interpretab
